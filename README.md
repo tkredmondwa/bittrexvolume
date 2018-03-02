@@ -8,11 +8,11 @@ if Bittrex removes a specific pair.
 
 Line 9. Delay in seconds (15) before the 1st API call. It shows a countdown on screen. If you don't want to see the countdown, erase line 11.
 
-Line 211. Delay in seconds before the next APi call. Default value is 30 seconds. Anything below this value, you may get IP ban from Bittrex. 
+Line 211. Delay in seconds before the next API call. Default value is 30 seconds. Anything below this value, you may get IP ban from Bittrex. 
 Feel free to change it as you see fit. I have found 300 seconds to work well for day trading, but this is all subjective.
 
 How to use it:
-Download the bittrexvolume.py file
+Download the bittrexvolume.py file.
 Open IDLE (Python GUI). Open the bittrexvolume.py file and choose run.
 
 It will show volume in ascending order.
