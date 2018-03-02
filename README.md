@@ -1,6 +1,6 @@
 # bittrexvolume
 Snapshots of volume change in Bittrex.
-A simple script that used Bittrex public API to record volume changes.
+A simple script that uses Bittrex public API to record volume changes.
 Works with Python 2.7. I have not tested it with 3.0
 
 Lines 21-165. These are the Bittrex pairs. You may need to update them, since Bittrex adds/removes pairs every now and then. You may get an error 
