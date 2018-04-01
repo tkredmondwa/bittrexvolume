@@ -20,3 +20,7 @@ It will show volume in ascending order.
 If you change line 258 to
 sorted_x = sorted(sortlist.items(), key=operator.itemgetter(1), reverse=True)
 the sorting will show decreased volumes first.
+
+DISCLAIMER: I am in no way affiliated with Bittrex, use at your own risk. 
+There are no warranties or guarantees expressed or implied. 
+You assume all responsibility and liability.
